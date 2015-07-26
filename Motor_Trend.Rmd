@@ -1,6 +1,6 @@
 ---
 title: 'Motor Trend : Regression Models Course Project'
-output: word_document
+output: pdf_document
 ---
 **Executive Summary**
 
